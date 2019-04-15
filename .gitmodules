@@ -1,3 +1,6 @@
 [submodule "keras-fcn"]
 	path = keras-fcn
 	url = https://github.com/brennanNichyporuk/keras-fcn.git
+[submodule "permutohedral_lattice"]
+	path = permutohedral_lattice
+	url = https://github.com/MiguelMonteiro/permutohedral_lattice.git
