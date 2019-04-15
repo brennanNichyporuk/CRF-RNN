@@ -1,0 +1,3 @@
+[submodule "keras-fcn"]
+	path = keras-fcn
+	url = https://github.com/brennanNichyporuk/keras-fcn.git
